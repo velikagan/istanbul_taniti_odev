@@ -1,7 +1,7 @@
 # istanbul_taniti_odev
 flutter
 https://github.com/keyvanarasteh
-
+# Hocam Vs Codeda sıkıntı olduğu için extract method kısmı çıkmadı uygulamayla alakalı bir hata çözemedim o yüzden bu projem böyle oldu.
 
 
 
